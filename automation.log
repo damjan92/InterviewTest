@@ -1,20 +1,21 @@
-03/19/2020 03:50:58 PM - WebDriverFactory - INFO: Running on Firefox
-03/19/2020 03:54:32 PM - WebDriverFactory - INFO: Running on Firefox
-03/19/2020 03:54:39 PM - Description_search - INFO: Element is found
-03/19/2020 03:58:17 PM - WebDriverFactory - INFO: Running on Firefox
-03/19/2020 03:58:25 PM - Description_search - INFO: Element is found
-03/19/2020 03:58:48 PM - WebDriverFactory - INFO: Running on Firefox
-03/19/2020 04:13:26 PM - WebDriverFactory - INFO: Running on Firefox
-03/19/2020 04:13:33 PM - Description_search - INFO: Element is presented
-03/19/2020 04:13:33 PM - Status - ERROR: ## Verfitication failed: Test is successful
-03/19/2020 04:13:33 PM - Status - INFO: Test search by description text: Test is successful
-03/19/2020 04:16:34 PM - WebDriverFactory - INFO: Running on Firefox
-03/19/2020 04:16:43 PM - Description_search - INFO: Element is presented
-03/19/2020 04:16:43 PM - Status - INFO: ## Verification successful: Test is successful
-03/19/2020 04:16:43 PM - Status - INFO: Test search by description text: Test is successful
-03/19/2020 04:19:01 PM - WebDriverFactory - INFO: Running on Firefox
-03/19/2020 04:19:11 PM - Description_search - INFO: Element is found
-03/19/2020 04:25:53 PM - WebDriverFactory - INFO: Running on Firefox
-03/19/2020 04:26:02 PM - Description_search - INFO: Element is presented
-03/19/2020 04:26:02 PM - Status - INFO: ## Verification successful: Test is successful
-03/19/2020 04:26:02 PM - Status - INFO: Test search by description text: Test is successful
+03/19/2020 04:47:27 PM - WebDriverFactory - INFO: Running on Firefox
+03/19/2020 04:47:38 PM - Description_search - INFO: Element is presented
+03/19/2020 04:47:38 PM - Status - INFO: ## Verification successful: Test is successful
+03/19/2020 04:47:38 PM - Status - INFO: Test search by description text: Test is successful
+03/19/2020 04:55:49 PM - WebDriverFactory - INFO: Running on Firefox
+03/19/2020 04:55:58 PM - Description_search - INFO: Element is presented
+03/19/2020 04:55:58 PM - Status - INFO: ## Verification successful: Test is successful
+03/19/2020 04:55:58 PM - Status - INFO: Test search by description text: Test is successful
+03/19/2020 04:56:04 PM - Description_search - INFO: Element is presented
+03/19/2020 04:56:04 PM - Status - INFO: ## Verification successful: Test is successful
+03/19/2020 04:56:04 PM - Status - INFO: Test search by description text: Test is successful
+03/19/2020 04:57:34 PM - WebDriverFactory - INFO: Running on Firefox
+03/19/2020 04:57:45 PM - Description_search - INFO: Element is presented
+03/19/2020 04:57:45 PM - Status - INFO: ## Verification successful: Test is successful
+03/19/2020 04:57:45 PM - Status - INFO: Test search by description text: Test is successful
+03/19/2020 04:57:51 PM - Description_search - INFO: Element is presented
+03/19/2020 04:57:51 PM - Status - INFO: ## Verification successful: Test is successful
+03/19/2020 04:57:51 PM - Status - INFO: Test search by description text: Test is successful
+03/19/2020 05:31:04 PM - WebDriverFactory - INFO: Running on Firefox
+03/19/2020 05:33:07 PM - WebDriverFactory - INFO: Running on Firefox
+03/19/2020 05:34:48 PM - WebDriverFactory - INFO: Running on Firefox

@@ -27,15 +27,16 @@ class Description_search(SeleniumWebDriver):
         self.elementClick(self.filter_button, locatorType="xpath")
 
     def clear_fields(self):
-        sbox = self.getElement(locator= self.search_box)
+        sbox = self.getElement(locator=self.search_box, locatorType="xpath")
         sbox.clear()
 
     def search(self, text):
         time.sleep(2)
-        #self.clear_fields()
+        self.clear_fields()
         self.input_text(text)
+        time.sleep(1)
+        self.search_click()
         time.sleep(2)
-        self.search_box
 
     def succesful_search(self):
         result = self.isElementPresent(self.succes_search, locatorType="class")

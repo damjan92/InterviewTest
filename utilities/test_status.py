@@ -18,11 +18,11 @@ class Status(SeleniumWebDriver):
             else:
                 self.result_list.append("FAILED")
                 self.log.error("## Verfitication failed: " + resultMessage)
-                #self.screenshot(resultMessage)
+                self.screenshot(resultMessage)
         except:
             self.result_list.append("FAILED")
             self.log.error("## Verfitication failed: exception occured" )
-            #self.screenshot(resultMessage)
+            self.screenshot(resultMessage)
 
     def markresult(self, result, resultMessage):
         self.setResult(result, resultMessage)

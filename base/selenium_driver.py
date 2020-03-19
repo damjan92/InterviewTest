@@ -81,4 +81,22 @@ class SeleniumWebDriver():
             self.log.warning("## Element is not present")
             print_stack()
 
+    def screenshot(self, resultMessage):
+
+        fileName = resultMessage + "." + str(round(time.time() * 1000)) + ".png"
+        screenshotDirectory = "..\\screenshots"
+        relativeFileName = screenshotDirectory + fileName
+        currentDirectory = os.path.dirname(__file__)
+        destinationFile =   os.path.join(currentDirectory, relativeFileName)
+        destinationDirectory = os.path.join(currentDirectory, screenshotDirectory)
+
+        try:
+            if not os.path.exists(destinationDirectory):
+                os.makedirs(destinationDirectory)
+            self.driver.save_screenshots(destinationFile)
+            self.log.info("Scrennshot is save to " + destinationFile)
+        except:
+            self.log.error("### Exception occuried")
+            print_stack()
+
 
