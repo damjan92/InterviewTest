@@ -19,3 +19,10 @@
 03/19/2020 05:31:04 PM - WebDriverFactory - INFO: Running on Firefox
 03/19/2020 05:33:07 PM - WebDriverFactory - INFO: Running on Firefox
 03/19/2020 05:34:48 PM - WebDriverFactory - INFO: Running on Firefox
+03/19/2020 08:27:47 PM - WebDriverFactory - INFO: Running on Firefox
+03/19/2020 08:28:02 PM - Description_search - INFO: Element is presented
+03/19/2020 08:28:02 PM - Status - INFO: ## Verification successful: Test is successful
+03/19/2020 08:28:02 PM - Status - INFO: Test search by description text: Test is successful
+03/19/2020 08:28:08 PM - Description_search - INFO: Element is presented
+03/19/2020 08:28:08 PM - Status - INFO: ## Verification successful: Test is successful
+03/19/2020 08:28:08 PM - Status - INFO: Test search by description text: Test is successful

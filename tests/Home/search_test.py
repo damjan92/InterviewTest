@@ -35,7 +35,8 @@ class SearchByDescTest(unittest.TestCase):
 
 
 
-
+# Run test
+# py.test -s -v tests\home\search_test.py --browser firefox
 
 
 
